@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing right now, probably just with friends until I get a job
 - 📫 How to reach me zachary1.voce@gmail.com
 
+Things to add to Github:
+* Mods from Terraria's TModLoader, Specifically the content mod and Better Master Mode
 <!---
 PersonIKnow/PersonIKnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
