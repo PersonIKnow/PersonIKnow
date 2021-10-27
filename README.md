@@ -7,14 +7,14 @@
 Things to add to Github:
 - Mods from Terraria's TModLoader, Specifically the content mod and Better Master Mode.
 - Games I've made in Already made game engines (such as Unity and Unreal Engine), If I end up doing that while in Uni.
-- Put Custom game Engine (Along with what I made with the engine).\
+- Put Custom game Engine (Along with what I made with the engine).
 
-**FOR CUSTOM GAME ENGINE, MAKE SURE TO PUT STUFF IN THE README.TXT, IN THE REPOSITORY, STUFF LIKE:** 
-  - *I implemented the UI using framework X.*
+**MAKE SURE TO PUT STUFF IN THE README.TXT, IN THE REPOSITORY, STUFF LIKE:** 
+  - *I implemented the UI using framework X. (More for custom game engine)*
   - *The hardest problem I had to solve was Y.*
   - *The longest problem to debug was Z.*
   - *I would do W differently using U and V.*
-  - *etc.*\
+  - *etc.*
 
 **TO SHOW THAT I UNDERSTAND WHAT I HAVE WRITTEN AND THAT I CAN REFLECT ON WHAT I'VE DONE AND HOW TO IMRPOVE ON MY WORK.**
 <!---
