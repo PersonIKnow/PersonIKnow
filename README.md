@@ -9,7 +9,7 @@ Things to add to Github:
 - Games I've made in Already made game engines (such as Unity and Unreal Engine), If I end up doing that while in Uni.
 - Put Custom game Engine (Along with what I made with the engine).\
 
-**MAKE SURE TO PUT STUFF IN THE README.TXT, IN THE REPOSITORY, STUFF LIKE:** 
+**FOR CUSTOM GAME ENGINE, MAKE SURE TO PUT STUFF IN THE README.TXT, IN THE REPOSITORY, STUFF LIKE:** 
   - *I implemented the UI using framework X.*
   - *The hardest problem I had to solve was Y.*
   - *The longest problem to debug was Z.*
