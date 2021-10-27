@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on nothing right now, probably just with friends until I get a job
 - 📫 How to reach me zachary1.voce@gmail.com
 
-Things to add to Github:
-- Mods from Terraria's TModLoader, Specifically the content mod and Better Master Mode.
-- Games I've made in Already made game engines (such as Unity and Unreal Engine), If I end up doing that while in Uni.
+Things to add to Github Portfolio:
+- Mods from Terraria's TModLoader, Specifically the content mod and Better Master Mode. (Only if it's warrented. Not really a point if I don't add my own mechanic/system as the other stuff is already made)
+- Games I've made in Already made game engines (such as Unity or Unreal Engine), If I end up doing that while in Uni.
 - Put Custom game Engine (Along with what I made with the engine).
 
 **MAKE SURE TO PUT STUFF IN THE README.TXT, IN THE REPOSITORY, STUFF LIKE:** 
