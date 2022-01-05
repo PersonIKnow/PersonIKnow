@@ -16,6 +16,10 @@ Things to add to Github Portfolio:
   - *I would do W differently using U and V.*
   - *etc.*
 
+**Terraria modding things**
+- *Put better master mode to show that you can modify existing code and can implement your own stuff*
+- *Put Content Mod and explain that you can use existing frameworks(or whatever it's called) and stuff*
+
 **TO SHOW THAT I UNDERSTAND WHAT I HAVE WRITTEN AND THAT I CAN REFLECT ON WHAT I'VE DONE AND HOW TO IMRPOVE ON MY WORK.**
 <!---
 PersonIKnow/PersonIKnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
