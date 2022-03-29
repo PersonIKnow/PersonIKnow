@@ -5,7 +5,6 @@
 - 📫 How to reach me zachary1.voce@gmail.com
 
 Things to add to Github Portfolio:
-- Mods from Terraria's TModLoader, Specifically the content mod and Better Master Mode. (Only if it's warrented. Not really a point if I don't add my own mechanic/system as the other stuff is already made)
 - Games I've made in Already made game engines (such as Unity or Unreal Engine), If I end up doing that while in Uni.
 - Put Custom game Engine (Along with what I made with the engine).
 
@@ -15,10 +14,6 @@ Things to add to Github Portfolio:
   - *The longest problem to debug was Z.*
   - *I would do W differently using U and V.*
   - *etc.*
-
-**Terraria modding things**
-- *Put better master mode to show that you can modify existing code and can implement your own stuff*
-- *Put Content Mod and explain that you can use existing frameworks(or whatever it's called) and stuff*
 
 **TO SHOW THAT I UNDERSTAND WHAT I HAVE WRITTEN AND THAT I CAN REFLECT ON WHAT I'VE DONE AND HOW TO IMRPOVE ON MY WORK.**
 <!---
