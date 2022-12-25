@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PersonIKnow
 - 👀 I’m interested in making video games in the future but for now just learning how to program is fun
-- 🌱 I’m currently learning Java at uni. I want to learn c# and c++ at least in the future though
+- 🌱 I’m currently learning Java at uni. I want to learn c c++ and c# at least in the future though
 - 💞️ I’m looking to collaborate on nothing right now, probably just with friends until I get a job
 - 📫 How to reach me zachary1.voce@gmail.com
 
